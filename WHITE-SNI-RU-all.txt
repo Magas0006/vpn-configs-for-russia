@@ -1,8 +1,10 @@
-# profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ WHITE LISTS | SNI-RU
-# profile-update-interval: 5
-# Date/Time: 2026-03-14 / 13:55 (Moscow)
-# Количество: 5
-# For more info and VPN-configs - visit: www.github.com/igareck/vpn-configs-for-russia
+#profile-title: ☪️💥Mага06💥📶
+#profile-update-interval: 24
+#announce: Сервера из подписки должны использоваться ТОЛЬКО при белых списках!
+#subscription-userinfo: upload=0; download=2153701362; total=0; expire=1920951622
+#support-url: https://https://t.me/+FjJ74BFKY8xjNGMyu
+
+
 
 vless://dc1b85fd-a08e-42d7-ae2b-0a320f3399b7@fr.pp.prod.n7.homes:8443?encryption=none&security=reality&sni=sun6-21.userapi.com&fp=chrome&pbk=upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo&sid=3ca620a7ed5f3196&spx=%2F&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5BSNI-RU%5D%20sun6-21.userapi.com
 vless://dc1b85fd-a08e-42d7-ae2b-0a320f3399b7@se.yt.prod.n7.homes:8443?encryption=none&fp=chrome&pbk=upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo&security=reality&sid=3ca620a7ed5f3196&sni=sun6-21.userapi.com&type=tcp#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%5BSNI-RU%5D%20sun6-21.userapi.com
