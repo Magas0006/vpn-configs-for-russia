@@ -1,9 +1,10 @@
-# profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ WHITE LISTS | SNI-RU
-# profile-update-interval: 1
-# Date/Time: 2026-05-09 / 14:01 (Moscow)
-# Количество: 34
-# For more info and VPN-configs - visit: www.github.com/igareck/vpn-configs-for-russia
-
+#profile-title: ☪️Мага✔️VPN☪️
+#profile-update-interval: 24
+#announce: Сервера из подписки должны использоваться ТОЛЬКО при белых списках!
+#subscription-userinfo: upload=0; download=2153701362; total=0; expire=2150951622
+#support-url:https://https://t.me/+FjJ74BFKY8xjNGMyuy
+vless://45e55198-a5ad-4f19-bb39-236822141d25@188.72.103.3:443?path=%2Fstream%2Fupdates%2F130cdea4%2F019dee35-0199-e195-7c29-9b28c0e62abc8&security=tls&encryption=none&echfq=none&host=cdn.lovecrafty.link&fp=chrome&allowinsecure=0&type=ws&sni=cdn.tracker.yandex.net#%F0%9F%87%A9%F0%9F%87%AA+%D0%92%D0%9D%D0%93
+vless://45e55198-a5ad-4f19-bb39-236822141d25@188.72.103.3:443?path=%2Fstream%2Fupdates%2F130cdea4%2F019dee35-0199-dd7e-7323-a62ad725bba07&security=tls&encryp
 vless://859cb825-0458-4af9-8f21-4ff142dc69a9@130.49.219.126:5443?type=xhttp&security=reality&fp=chrome&pbk=xVWSScN9YLNPwJDaFhna5MvWruhT31pMEuOJdmJe0Eg&sid=7685dfed&sni=ivi.ru&path=/movies&host=at16.fastlanehosting.ru&mode=auto#%F0%9F%87%A6%F0%9F%87%B9%20Austria%20%7C%20%F0%9F%8C%90%20%7C%20%5BIPv6%5D%20%5BSNI-RU%5D%20ivi.ru
 vless://21efa503-7247-462e-98c9-56f9a1319e91@v3.filesdownloader.ru:6784?encryption=none&fp=chrome&host=vk.com&mode=auto&pbk=LRAFOiJmqIVMJu9pr1LG4WnaWHJHDtT-vnTHL9iFT3M&security=reality&sid=578fe8&sni=vk.com&type=xhttp#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5BSNI-RU%5D%20vk.com
 vless://21efa503-7247-462e-98c9-56f9a1319e91@v3.filesdownloader.ru:6784?encryption=none&security=reality&sni=vk.com&fp=firefox&pbk=LRAFOiJmqIVMJu9pr1LG4WnaWHJHDtT-vnTHL9iFT3M&sid=578fe8&spx=/&type=xhttp&host=vk.com&path=%252F&mode=auto#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5BSNI-RU%5D%20vk.com
